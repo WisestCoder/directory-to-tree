@@ -41,4 +41,6 @@ tree -depth 5[一个整数]  # 设置遍历的深度
 tree -exclude /node_modules/[一个正则] # 设置忽略的目录
 
 tree -extensions /\.txt$/[一个正则]  # 设置只想读取的文件
+
+tree -to /home/.../[一个有效的目录路径]  # 设置字符串树生成的文件
 ```
