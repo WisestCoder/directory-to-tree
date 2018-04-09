@@ -1,6 +1,6 @@
 {
   "name": "directory-to-tree",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "This is a tool that will convert a dir to tree",
   "main": "index.js",
   "bin": {
@@ -23,12 +23,12 @@
     "url": "https://github.com/dushao103500/directory-to-tree/issues"
   },
   "homepage": "https://github.com/dushao103500/directory-to-tree#readme",
-  "devDependencies": {
+  "dependencies": {
     "chai": "^2.3.0",
     "mocha": "^2.2.5",
-    "yargs": "^11.0.0"
+    "yargs": "^6.6.0"
   },
   "engines": {
-    "node": ">=4.2"
+    "node": ">=6.11"
   }
 }
