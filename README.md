@@ -7,7 +7,7 @@
 
 ### Demo
 可以根据目录生成如下所示的字符串树
-```javascript
+```txt
 directory-to-tree
 ├-- README.md
 ├-- bin
