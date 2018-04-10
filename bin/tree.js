@@ -22,7 +22,6 @@ options.depth && (config.depth = options.depth);
 const result = directoryToObject(directory, config);
 
 const queue = objectToMatrix([result]);
-
 const tree = matrixToTree(queue);
 console.log(tree);
 if (options.t) {
