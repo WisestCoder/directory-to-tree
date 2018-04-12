@@ -1,6 +1,6 @@
 {
   "name": "directory-to-tree",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "This is a tool that will convert a dir to tree",
   "main": "index.js",
   "bin": {
