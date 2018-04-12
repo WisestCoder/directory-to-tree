@@ -1,6 +1,6 @@
 {
   "name": "directory-to-tree",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "This is a tool that will convert a dir to tree",
   "main": "index.js",
   "bin": {
@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dushao103500/directory-to-tree.git"
+    "url": "git+https://github.com/WisestCoder/directory-to-tree.git"
   },
   "keywords": [
     "directory",
     "tree"
   ],
-  "author": "dushao103500",
+  "author": "WisestCoder",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dushao103500/directory-to-tree/issues"
+    "url": "https://github.com/WisestCoder/directory-to-tree/issues"
   },
-  "homepage": "https://github.com/dushao103500/directory-to-tree#readme",
+  "homepage": "https://github.com/WisestCoder/directory-to-tree#readme",
   "dependencies": {
     "chai": "^2.3.0",
     "mocha": "^2.2.5",
