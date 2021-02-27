@@ -1,7 +1,7 @@
 ## 根据目录生成字符串树🌲
 
-[![NPM version](https://img.shields.io/npm/v/@wisestcoder/directory-to-tree.svg?style=flat)](https://npmjs.org/package/directory-to-tree)
-[![npm](https://img.shields.io/npm/dt/@wisestcoder/directory-to-tree.svg)](https://npmjs.org/package/directory-to-tree)
+[![NPM version](https://img.shields.io/npm/v/@wisestcoder/directory-to-tree.svg?style=flat)](https://npmjs.org/package/@wisestcoder/directory-to-tree)
+[![npm](https://img.shields.io/npm/dt/@wisestcoder/directory-to-tree.svg)](https://npmjs.org/package/@wisestcoder/directory-to-tree)
 [![GitHub stars](https://img.shields.io/github/stars/WisestCoder/directory-to-tree.svg?style=social&label=Star)](https://github.com/WisestCoder/directory-to-tree)
 [![GitHub forks](https://img.shields.io/github/forks/WisestCoder/directory-to-tree.svg?style=social&label=Fork)](https://github.com/WisestCoder/directory-to-tree)
 
