@@ -1,9 +1,9 @@
 ## 根据目录生成字符串树🌲
 
-[![NPM version](https://img.shields.io/npm/v/directory-to-tree.svg?style=flat)](https://npmjs.org/package/directory-to-tree)
-[![npm](https://img.shields.io/npm/dt/directory-to-tree.svg)](https://npmjs.org/package/directory-to-tree)
-[![GitHub stars](https://img.shields.io/github/stars/dushao103500/directory-to-tree.svg?style=social&label=Star)](https://github.com/dushao103500/directory-to-tree)
-[![GitHub forks](https://img.shields.io/github/forks/dushao103500/directory-to-tree.svg?style=social&label=Fork)](https://github.com/dushao103500/directory-to-tree)
+[![NPM version](https://img.shields.io/npm/v/@wisestcoder/directory-to-tree.svg?style=flat)](https://npmjs.org/package/directory-to-tree)
+[![npm](https://img.shields.io/npm/dt/@wisestcoder/directory-to-tree.svg)](https://npmjs.org/package/directory-to-tree)
+[![GitHub stars](https://img.shields.io/github/stars/WisestCoder/directory-to-tree.svg?style=social&label=Star)](https://github.com/WisestCoder/directory-to-tree)
+[![GitHub forks](https://img.shields.io/github/forks/WisestCoder/directory-to-tree.svg?style=social&label=Fork)](https://github.com/WisestCoder/directory-to-tree)
 
 ### Demo
 可以根据目录生成如下所示的字符串树
@@ -26,7 +26,7 @@ directory-to-tree
 ### 安装
 
 ```bash
-npm install directory-to-tree -g
+npm install @wisestcoder/directory-to-tree -g
 ```
 
 ### 使用
